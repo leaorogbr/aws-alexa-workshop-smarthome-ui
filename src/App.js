@@ -53,7 +53,7 @@ function App() {
 }
 
 const signUpConfig = {
-  defaultCountryCode: "86",
+  defaultCountryCode: "55",
   usernameAttributes: "email"
 };
 
